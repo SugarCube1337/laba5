@@ -8,5 +8,6 @@ public class Route {
     private Location from; //Поле не может быть null
     private Location to; //Поле не может быть null
     private float distance; //Значение поля должно быть больше 1
+    test
 }
 
